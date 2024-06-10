@@ -15,6 +15,7 @@ https://unityroom.com/games/bulletpile
 
 この三つをコンセプトとした、2Dシューティングゲームを制作しました。
 
+![](shot.png)
 
 ## ディレクトリ構成
 私が制作したもののみを格納しています。
